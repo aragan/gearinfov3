@@ -8,7 +8,10 @@ Aragan version
 
 This is a multi-purpose addon that tracks your currently equipped gear and buffs to display valuable information.
 
-![Imgur](https://i.imgur.com/L27g5JD.png)  
+<img width="394" height="375" alt="image" src="https://github.com/user-attachments/assets/37baa77e-30dd-4a67-9cdc-7049847f10d4" />
+<img width="378" height="363" alt="image" src="https://github.com/user-attachments/assets/62d0f97e-bb40-4f42-be1a-ee8b545818d5" />
+<img width="379" height="362" alt="image" src="https://github.com/user-attachments/assets/15cc11f7-48e4-408b-81ec-429503a90142" />
+
 The addon can be used in conjunction with Gearswap to facilitate gear swapping.
 
 Please check out the [the wiki](https://github.com/sebyg666/GearInfo/wiki) for all the information you'll need to get you started.
